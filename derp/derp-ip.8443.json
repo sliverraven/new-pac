@@ -10,7 +10,7 @@
             "RegionID": 901,
             "STUNPort": 3478,
             "DERPPort": 8443,
-            "HostName": "",
+            "HostName": "101.43.112.21",
             "IPv4": "101.43.112.21",
             "InsecureForTests": true
           }
